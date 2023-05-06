@@ -1,0 +1,1 @@
+cmd.exe /c start cmd.exe /k "mysql -u username -p database_name < nama_file.sql"
